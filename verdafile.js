@@ -15,8 +15,8 @@ build.setSelfTracking();
 module.exports = build;
 
 // Directories
-const PREFIX = `milky`;
-const TTCPREFIX = `milky`;
+const PREFIX = `firacode`;
+const TTCPREFIX = ``;
 
 const BUILD = `build`;
 const IDH_CACHE = `cache/idh`;
